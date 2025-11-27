@@ -1,0 +1,18 @@
+<root>
+<employee>
+  <id>1</id>
+  <name>Ali</name>
+  <salary>9000</salary>
+  <email>ali@example.com</email>
+  <hire_date>2023-01-10</hire_date>
+  <active>true</active>
+</employee>
+<employee>
+  <id>1</id>
+  <name>houda</name>
+  <salary>9000</salary>
+  <email>houda@example.com</email>
+  <hire_date>2023-01-10</hire_date>
+  <active>true</active>
+</employee>
+</root>
